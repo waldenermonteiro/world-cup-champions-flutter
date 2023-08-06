@@ -178,7 +178,7 @@ class _MyAppState extends State<MyApp> {
                     });
                   },
                 ),
-                const Text('View in lines'),
+                const Text('View in cards'),
               ],
             ),
             Expanded(
