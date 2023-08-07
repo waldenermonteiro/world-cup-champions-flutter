@@ -15,6 +15,7 @@ class ListCountriesLines extends StatelessWidget {
         return Column(
           children: [
             ListTile(
+              tileColor: Colors.white,
               leading: Image(
                 image: AssetImage(
                     'assets/flags/${winnersList[index]['flag'].toString()}.png'),

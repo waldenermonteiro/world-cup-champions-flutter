@@ -157,15 +157,15 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.green.shade600),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
         useMaterial3: true,
       ),
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Theme.of(context).colorScheme.primary,
+          backgroundColor: Colors.green.shade800,
           title: const Text('Winners', style: TextStyle(color: Colors.white)),
         ),
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.grey.shade200,
         body: Column(
           children: [
             Row(
