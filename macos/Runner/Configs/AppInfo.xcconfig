@@ -5,7 +5,7 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = world_cup_champions_flutter
+PRODUCT_NAME = World Cup Champions;
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = com.example.worldCupChampionsFlutter

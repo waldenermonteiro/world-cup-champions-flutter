@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "world_cup_champions_flutter" "\0"
+            VALUE "FileDescription", "World Cup Champions" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "world_cup_champions_flutter" "\0"
+            VALUE "InternalName", "World Cup Champions" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "world_cup_champions_flutter.exe" "\0"
-            VALUE "ProductName", "world_cup_champions_flutter" "\0"
+            VALUE "ProductName", "World Cup Champions" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
